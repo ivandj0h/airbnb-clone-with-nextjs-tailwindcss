@@ -1,0 +1,37 @@
+[
+  {
+    "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.history.com%2F.image%2Far_1%3A1%252Cc_fill%252Ccs_srgb%252Cfl_progressive%252Cq_auto%3Agood%252Cw_1200%2FMTYyNDg1MjE3MTI1Mjc5Mzk4%2Ftopic-london-gettyimages-760251843-promo.jpg&imgrefurl=https%3A%2F%2Fwww.history.com%2Ftopics%2Fbritish-history%2Flondon-england&tbnid=3XwHndLk0KjZrM&vet=12ahUKEwjY7cKGiOvzAhWDgM4BHbDVB7EQMygAegUIARDMAQ..i&docid=5o6EWoJUwWIg4M&w=1200&h=1200&itg=1&q=london&client=firefox-b-d&ved=2ahUKEwjY7cKGiOvzAhWDgM4BHbDVB7EQMygAegUIARDMAQ",
+    "location": "London",
+    "distance": "45-minute drive"
+  },
+  {
+    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visitbritain.com%2Fgb%2Fen%2Fengland%2Fnorthern-england%2Fmanchester&psig=AOvVaw1Z03e3JGNEwCMDER3sZAZK&ust=1635440409592000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNi19raI6_MCFQAAAAAdAAAAABAE",
+    "location": "Manchester",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fa.cdn-hotels.com%2Fgdcs%2Fproduction166%2Fd1835%2Fcd2c1e20-5862-11e8-982b-0242ac11000d.jpg&imgrefurl=https%3A%2F%2Fwww.hotels.com%2Fgo%2Fengland%2Fbest-things-to-do-liverpool&tbnid=yzJeR11bFGjdRM&vet=12ahUKEwiA0anViOvzAhXHwoUKHd0bDNIQMygCegUIARDXAQ..i&docid=NvJIzsaOUNPpYM&w=1400&h=933&itg=1&q=liverpool%20city&client=firefox-b-d&ved=2ahUKEwiA0anViOvzAhXHwoUKHd0bDNIQMygCegUIARDXAQ",
+    "location": "Liverpool",
+    "distance": "5-hour drive"
+  },
+  {
+    "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcf.bstatic.com%2Fxdata%2Fimages%2Fexplorer_city%2F600x200%2F26423.jpg%3Fk%3D63cbe21118cf7f7a7ab969e28eb131fda8ec87d76faddb2fb2eeef52584faae3%26o%3D&imgrefurl=https%3A%2F%2Fwww.booking.com%2Fcity%2Fgb%2Fyork.html&tbnid=z8MZpc5aR89e8M&vet=12ahUKEwjZpsnriOvzAhUSgRoKHTeXCtUQMygregUIARCpAg..i&docid=GUO9_oV3e9NbGM&w=600&h=200&q=york&client=firefox-b-d&ved=2ahUKEwjZpsnriOvzAhUSgRoKHTeXCtUQMygregUIARCpAg",
+    "location": "York",
+    "distance": "4.5-hour drive"
+  },
+  {
+    "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.independent.co.uk%2Fs3fs-public%2Fthumbnails%2Fimage%2F2017%2F06%2F30%2F12%2Fcardiff-bay.jpg%3Fwidth%3D982%26height%3D726%26auto%3Dwebp%26quality%3D75&imgrefurl=https%3A%2F%2Fwww.independent.co.uk%2Ftravel%2Fuk%2Fcardiff-what-do-staycation-castle-watertaxi-st-davids-arcade-dr-who-experience-a7815281.html&tbnid=js5Xm2Je0VVrXM&vet=12ahUKEwjoqNmJievzAhVM_4UKHfAAAgUQMygMegUIARDlAQ..i&docid=-LUshxlFLt3iqM&w=982&h=726&q=cardiff&client=firefox-b-d&ved=2ahUKEwjoqNmJievzAhVM_4UKHfAAAgUQMygMegUIARDlAQ",
+    "location": "Cardiff",
+    "distance": "5-hour drive"
+  },
+  {
+    "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Feflanguagesblog%2Fwp-content%2Fuploads%2F2018%2F09%2F12094538%2F10_reasons_to_love_Oxford_EF-GO-Blog.jpg&imgrefurl=https%3A%2F%2Fwww.ef.com%2Fwwen%2Fblog%2Flanguage%2F10-reasons-love-oxford%2F&tbnid=LlsQV2Xc-tugCM&vet=12ahUKEwjb9423ievzAhUKQRoKHekLDe0QMygLegUIARDlAQ..i&docid=i0vQWBBXuJ7y2M&w=568&h=464&q=oxford&client=firefox-b-d&ved=2ahUKEwjb9423ievzAhUKQRoKHekLDe0QMygLegUIARDlAQ",
+    "location": "Oxford",
+    "distance": "2-hour drive"
+  },
+  {
+    "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.homesandproperty.co.uk%2Fs3fs-public%2Fthumbnails%2Fimage%2F2017%2F04%2F18%2F15%2Fhovecreditalamycyx1cf.jpg%3Fwidth%3D640&imgrefurl=https%3A%2F%2Fwww.standard.co.uk%2Fhomesandproperty%2Fbuying-mortgages%2Ftop-20-most-popular-homes-hotspots-hove-claims-number-one-spot-with-young-professional-buyers-across-england-and-wales-a109726.html&tbnid=HGvI0BXJGKnY2M&vet=12ahUKEwj4zNTPievzAhUN0xoKHZKiBV8QMygXegUIARD5AQ..i&docid=87GDDIEkbq6eNM&w=1834&h=1222&q=hove&client=firefox-b-d&ved=2ahUKEwj4zNTPievzAhUN0xoKHZKiBV8QMygXegUIARD5AQ",
+    "location": "Hove",
+    "distance": "1.5-hour drive"
+  }
+]
